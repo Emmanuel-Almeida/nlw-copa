@@ -22,9 +22,10 @@ body {
     background-color: #121214; 
     background-image: url(./assets/bg.svg);
     background-position-x: center;
-    background-position-y:-715px;
+    background-position-y: -715px;
     background-size: cover;
     background-repeat: no-repeat;
+
 }
 
 
@@ -62,6 +63,7 @@ ul {
     background: var(--card-bg-color);
     border-bottom: 2px solid var(--card-color-primary);
     border-radius: 6px;
+    margin-bottom: 32px;
 }
 
 
@@ -88,6 +90,7 @@ ul {
     font-size: 14px;
     text-transform: uppercase;
 }
+
 
 .card ul li {
     display: flex;
@@ -120,6 +123,7 @@ ul {
 .card ul li strong:hover,
 .card  ul li img:hover{
     transform: scale(1.1);
+    color: #f7dd43;
 }
 
 .card h2,
