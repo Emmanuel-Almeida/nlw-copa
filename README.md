@@ -1,6 +1,6 @@
 <h1 align="center"> NLW 10 - Copa 2022 </h1>
 
-<img src="assets/capa.png" alt="Capa da NLW.">
+<img src="assets/capa-of.png" alt="Capa da NLW.">
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
