@@ -46,6 +46,16 @@ header {
     
 }
 
+header ul li {
+    display: flex;
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #121214;
+    font-size: 22px;
+
+}
+
 ul {
     list-style: none;
 }
