@@ -47,7 +47,7 @@ header {
 }
 
 header ul li {
-    display: flex;
+    display: contents;
     text-align: center;
     margin-top: 15px;
     font-weight: bold;
