@@ -52,9 +52,10 @@ header ul li {
     margin-top: 15px;
     font-weight: bold;
     color: #121214;
-    font-size: 22px;
+    font-size: px;
 
 }
+
 
 ul {
     list-style: none;
@@ -162,9 +163,5 @@ transition: transform 0.3s;
         max-width: 670px;
         flex-direction: row;
         flex-wrap: wrap;
-    }
-    
-    body {
-       
     }
 }
