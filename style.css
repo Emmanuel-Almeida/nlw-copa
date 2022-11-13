@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'icones';
+    src: url('./assets/font/icones.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -9,6 +14,8 @@
     --card-color-primary: #f7dd43;
     --card-bg-color: #1d1c19;
 }
+
+
 
 body.blue {
     --card-title-border-color: #338af3;
@@ -46,14 +53,31 @@ header {
     
 }
 
+.tabela ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
 ul {
     list-style: none;
 }
 
+.tabela ul li {
+    padding: 5px;
+    font-size: 20px;
+}
+
+
 #cards {
     display: flex;
-    flex-direction: column;
     gap: 32px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .card {
