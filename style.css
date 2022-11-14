@@ -31,6 +31,7 @@ body {
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
+    
 
 }
 
@@ -51,6 +52,9 @@ header {
     margin-bottom: 63px;
     text-align: center;
     
+}
+a {
+    color: #121214;
 }
 
 .tabela ul {
