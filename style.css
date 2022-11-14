@@ -66,6 +66,7 @@ a {
     justify-content: center;
 }
 
+
 ul {
     list-style: none;
 }
@@ -180,9 +181,5 @@ transition: transform 0.3s;
         max-width: 670px;
         flex-direction: row;
         flex-wrap: wrap;
-    }
-    
-    body {
-       
     }
 }
